@@ -19,7 +19,7 @@ if (phpversion() >= 5.3) {
 }
 
 // Modify this URL to load fixtures from your chosen team: 
-$url = 'http://www.bbc.co.uk/sport/football/teams/manchester-united/fixtures';    
+$url = 'http://www.bbc.co.uk/sport/football/teams/aston-villa/fixtures';    
 
 // Load the data into an array of fixtures:
 $fixtures = array();
